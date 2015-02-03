@@ -1,3 +1,3 @@
 # hello-world
-Repositorio de prueba para aprender a usar GitHub
+Repositorio de prueba para aprender a usar GitHub\n
 siguiendo el tutorial y creando el primer commit...
